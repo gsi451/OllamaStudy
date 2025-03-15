@@ -1,5 +1,6 @@
 https://huggingface.co/yanolja/EEVE-Korean-Instruct-2.8B-v1.0/tree/main
 이 자료를 ollama에 연동해 본 메뉴얼
+유튜브 참고 : https://www.youtube.com/watch?v=VkcaigvTrug
 
 1. ollama에서 바로 모델을 다운로드 받을수가 없어서 gguf를 수동으로 받아서 추가해야 한다.
 2. ollama의 모델 폴더는 어디있지? 찾다 보니 명령어로 가능했다.
